@@ -1,7 +1,7 @@
 - 👋 Hi! I'm Dominic Altamura
 - 👀 I’m interested in: Machine Learning, Parallel Computing, & Computational Mathematics
 - 🌱 I’m currently learning: Compiler development & AWS Configuration
-- 📫 How to reach me: Shoot me an email at daltamur@0swego.edu
+- 📫 How to reach me: Shoot me an email at daltamur@oswego.edu
 
 <!---
 daltamur/daltamur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
