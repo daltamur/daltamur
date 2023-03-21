@@ -1,4 +1,4 @@
 - 👋 Hi! I'm Dominic Altamura
-- 👀 I’m interested in: Machine Learning, Parallel Computing, & Computational Mathematics
+- 👀 I’m interested in: Machine Learning, Compiler Development, Parallel Computing, & Computational Mathematics
 - 🌱 I’m currently learning: Computer Networking and Cryptography Methodology
 - 📫 How to reach me: Shoot me an email at daltamur@oswego.edu
